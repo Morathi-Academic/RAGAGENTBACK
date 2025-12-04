@@ -1,0 +1,5 @@
+azure-functions
+requests
+markdown2
+python-dateutil
+azure-ai-openai>=1.0.0
